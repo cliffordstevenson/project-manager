@@ -1,4 +1,4 @@
-package com.robert.projectmanager;
+package com.andrew.projectmanager;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

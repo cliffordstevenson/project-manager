@@ -1,12 +1,12 @@
-package com.robert.projectmanager.repositories;
+package com.andrew.projectmanager.repositories;
 
 import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
-import com.robert.projectmanager.models.Project;
-import com.robert.projectmanager.models.User;
+import com.andrew.projectmanager.models.Project;
+import com.andrew.projectmanager.models.User;
 
 @Repository
 public interface ProjectRepo extends CrudRepository<Project, Long> {

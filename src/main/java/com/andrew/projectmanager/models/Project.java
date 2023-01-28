@@ -1,4 +1,4 @@
-package com.robert.projectmanager.models;
+package com.andrew.projectmanager.models;
 
 import java.util.Date;
 import java.util.List;

@@ -1,11 +1,11 @@
-package com.robert.projectmanager.repositories;
+package com.andrew.projectmanager.repositories;
 
 import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
-import com.robert.projectmanager.models.Task;
+import com.andrew.projectmanager.models.Task;
 
 @Repository
 public interface TaskRepo extends CrudRepository<Task, Long> {

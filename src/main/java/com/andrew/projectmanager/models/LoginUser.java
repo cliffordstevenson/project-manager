@@ -1,4 +1,4 @@
-package com.robert.projectmanager.models;
+package com.andrew.projectmanager.models;
 
 import javax.validation.constraints.Email;
 import javax.validation.constraints.NotEmpty;

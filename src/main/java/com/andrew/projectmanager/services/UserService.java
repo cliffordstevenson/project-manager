@@ -1,4 +1,4 @@
-package com.robert.projectmanager.services;
+package com.andrew.projectmanager.services;
 
 import java.util.List;
 import java.util.Optional;
@@ -8,10 +8,10 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.validation.BindingResult;
 
-import com.robert.projectmanager.models.LoginUser;
-import com.robert.projectmanager.models.Project;
-import com.robert.projectmanager.models.User;
-import com.robert.projectmanager.repositories.UserRepo;
+import com.andrew.projectmanager.models.LoginUser;
+import com.andrew.projectmanager.models.Project;
+import com.andrew.projectmanager.models.User;
+import com.andrew.projectmanager.repositories.UserRepo;
 
 @Service
 public class UserService {
