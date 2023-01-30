@@ -4,7 +4,7 @@
 ### User Story
 ```
 AS a user, 
-I WANT to be able to view my projects and the status of projects of teammembers
+I WANT to be able to view my projects and the status of team
 SO THAT I have quick access to the information and that specific tasks can be logged per project.
 ```
 
