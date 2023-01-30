@@ -37,8 +37,7 @@ An employee or manager would benefit greatly from being able to view, share and 
 For local hosting:
 
 1. `git clone` this repository
-2. `npm i`
-3. `nodemon server`
+2. `select run as spring boot project`
 
 <a name="contribution"></a>
 ### Contribution
@@ -50,12 +49,6 @@ Single contribution project
 
 ##### App Demo
 ![app-demo](./img/app-demo.gif) 
-
-----
-## This Java project was designed for users to share projects, collaborate and update the status. The many-to-many relationship in the MySQL database allows users to edit each others projects, and switch teams. Users can provide specific tasks to each project, and update/share the status of these projects. The system is authenticated and allows for login and registration.  
-
-* Java, SpringBoot and Bootstrap is used for creating the user interface
-* MySQL is used for the database locally on my device
 
 ----
 
